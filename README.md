@@ -30,13 +30,11 @@
 
 - 🌱 I’m currently learning **QLearning implementation, Deep Convolution QLearning.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in  **Computer Vision, Pattern Detection**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 💬 Ask me about **Keras, Tensorflow, Model Optimization**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-<!--  📫 Feel free to reach me out **nishantjangid6377@gmail.com** 
+<!--  📫 ** 
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username! -->
 <!--Intro end-->
@@ -64,7 +62,7 @@
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
+<!--- trophy (start) 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
