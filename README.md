@@ -17,7 +17,7 @@
 <!--- snake -->
 
 
-<!--h2 without bottom border-->
+<!--h2 without bottom border--
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">" I don't expect anything from anyone, I just expect a lot from myself "</h2></summary>
