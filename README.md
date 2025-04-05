@@ -9,6 +9,11 @@
   </ul>
 </div>
 
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=100&color=F7297A&multiline=true&width=500&height=100&lines= I don't expect anything from anyone;I just expect a lot from myself" alt="Typing SVG" />
+</a>
+<br/>
 <!--- snake -->
 
 
